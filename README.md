@@ -1,4 +1,6 @@
 ## Hi there 👋
+- [x] Make a repository
+- [ ] Make a project
 
 - 🌱 I’m currently learning **open-source software**
 - 👯 I’m looking to collaborate on *sunglok Choi*
